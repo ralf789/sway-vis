@@ -1,6 +1,6 @@
 # Sway Visualiser — single‑file 
 
-A small tool to **visualise postural sway** and compute a simple **Centre‑of‑Mass (CoM)** stability metric from either a **live webcam** or a **video file**. Everything runs from a single Python file: `sway_viz_v1.py`.
+A small tool to **visualise postural sway** and compute a simple **Centre‑of‑Mass (CoM)** stability metric from either a **live webcam** or a **video file**. Everything runs from a single Python file: `sway_vis_v1.py`.
 
 > ⚠️ Research/visual feedback only — not a medical device.
 
